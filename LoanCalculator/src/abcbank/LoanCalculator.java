@@ -1,10 +1,7 @@
 /**
- * 
+ * Provides a Loan Calculator.
  */
 package abcbank;
-
-import java.math.BigDecimal;
-import java.text.DecimalFormat;
 
 /**
  * Description of Loan Calculator
